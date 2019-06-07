@@ -21,3 +21,6 @@ choco install webdeploy -fy
 choco install nodejs -fy
 choco install filezilla -fy
 choco install sharepointdesigner2010x32 -fy
+choco install git -fy
+choco install lastpass -fy
+choco install firacode -fy
