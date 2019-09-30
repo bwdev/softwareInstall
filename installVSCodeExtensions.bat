@@ -33,4 +33,8 @@ call code --install-extension wayou.vscode-todo-highlight --force
 call code --install-extension wix.vscode-import-cost --force
 call code --install-extension xabikos.JasmineSnippets --force
 call code --install-extension Zignd.html-css-class-completion --force
+call code --install-extension ktriek.ng-bootstrap-snippets
+call code --install-extension johnpapa.angular-essentials
+call code --install-extension softwaredotcom.swdc-vscode
+
 echo Done Installing Extensions...
